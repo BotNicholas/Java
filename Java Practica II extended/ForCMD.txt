@@ -1,0 +1,6 @@
+G:
+cd Projects\Java practica II II\src
+
+javac -Xlint Source.java
+
+java Source
