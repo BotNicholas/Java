@@ -1,0 +1,6 @@
+2023-03-12 15:12:24.490 [main] ERROR exceptions - aaa! error!
+2023-03-12 15:12:34.616 [main] ERROR exceptions - java.nio.file.NoSuchFileException: \file\does\not\exist
+2023-03-12 15:13:06.971 [main] ERROR exceptions - java.nio.file.NoSuchFileException: \file\does\not\exist
+2023-03-12 15:13:17.547 [main] ERROR exceptions - java.nio.file.NoSuchFileException: \file\does\not\exist
+2023-03-12 15:13:32.141 [main] ERROR exceptions - java.nio.file.NoSuchFileException: \file\does\not\exist
+2023-03-12 15:14:16.139 [main] ERROR exceptions - java.nio.file.NoSuchFileException: \file\does\not\exist

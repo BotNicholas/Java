@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SPBMetro.jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="SPBMetro.jar">
+      <element id="module-output" name="SPBMetro" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
